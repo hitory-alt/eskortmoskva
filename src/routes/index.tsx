@@ -16,9 +16,9 @@ import { genAIResponse, type Message } from '../utils'
 function Home() {
  
   return (
-    <div className="relative flex h-screen bg-gray-900">
-    <h1>header</h1>
-    <p>para</p>
+    <div className="relative flex flex-col gap-8 h-screen bg-gray-200">
+    <h1 class="text-center">header</h1>
+    <p class="">para</p>
     </div>
   )
 }
