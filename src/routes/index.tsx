@@ -15,9 +15,9 @@ import { genAIResponse, type Message } from "../utils";
 
 function Home() {
   return (
-    <div className="relative flex flex-col min-h-screen  ">
+    <div className="relative flex flex-col min-h-screen  pt-8">
       <div className="flex flex-col gap-8 justify-between px-4 mx-auto max-w-xl text-lg">
-        <h1 class="text-center text-xl">header</h1>
+        <h1 class="text-center text-2xl">Эскорт Люберцы Москва: Работают ли московские агентства в области?</h1>
         <p>
           Вы живете в Люберцах, хотите заказать эскорт в Москве, но боитесь, что агентства просто возьмут деньги и
           исчезнут? Или, может, уже пробовали - и не получилось? Многие думают: если ты не в центре Москвы, то агентства
